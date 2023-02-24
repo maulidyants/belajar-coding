@@ -1,0 +1,6 @@
+div {
+    width: 700px;
+    height: 100px;
+    border: solid 2px yellow;
+    overflow: hidden;
+}

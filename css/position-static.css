@@ -1,0 +1,5 @@
+div {
+    position: static;
+    left: 20px;
+    border: solid 2px yellow;
+}

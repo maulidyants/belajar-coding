@@ -1,0 +1,11 @@
+.flex-container {
+    display: flex;    
+    flex-direction: row;
+    background-color: yellow;
+  }
+  
+.flex-container > div {
+    background-color: #f1f1f1;
+    margin: 20px;
+    padding: 20px;
+  }

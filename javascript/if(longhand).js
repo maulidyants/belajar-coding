@@ -1,0 +1,1 @@
+if(isDino === true);

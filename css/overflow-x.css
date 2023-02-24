@@ -1,0 +1,5 @@
+div {
+    width: 50px;
+    border: solid 2px yellow;
+    overflow-x: auto;
+}
